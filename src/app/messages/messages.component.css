@@ -1,0 +1,19 @@
+.MessageField{
+  color: lightcoral;
+  text-align: center;
+}
+
+.clearMessage{
+  width: 120px;
+  height: 30px;
+  background-color: lightsteelblue;
+  cursor: pointer;
+  transform: translateY(-10px);
+}
+
+.clearMessage:hover{
+  background-color: lightskyblue;
+  transition: 0.7s;
+  transition-duration: 2s;
+}
+
